@@ -9,3 +9,16 @@ h2. Prerequisites
 * Python (>= 2.6)
 * "pyserial":http://pyserial.sourceforge.net/
 * "juno":http://github.com/breily/juno
+
+h2. To Make it Do Stuff
+
+Easy:
+
+<pre>
+<code>
+  python pyduino_srv.py
+</pre>
+</code>
+
+h2. Thanks
+* Akash Xavier for the "Prototyping API":http://github.com/SingAlong/Python-Arduino-Prototyping-API
