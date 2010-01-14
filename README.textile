@@ -15,10 +15,8 @@ h2. To Make it Do Stuff
 Easy:
 
 <pre>
-<code>
-  python pyduino_srv.py
+<code>python pyduino_srv.py</code>
 </pre>
-</code>
 
 h2. Thanks
 * Akash Xavier for the "Prototyping API":http://github.com/SingAlong/Python-Arduino-Prototyping-API
